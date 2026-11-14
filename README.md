@@ -1,5 +1,7 @@
 # Founder Zero → Hero — Stage-aware startup playbook
 
+> The repository is named `process-tracker` for historical reasons; the product is Founder Zero → Hero.
+
 A guidance tool that tells a founder **what to do next** based on the stage their
 startup is at — and **where** to do it. At every stage it lays out the moves
 across five dimensions — **incorporate/register, comply, hire, raise, and apply to
