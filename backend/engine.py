@@ -19,7 +19,7 @@ from pydantic import BaseModel, Field
 
 import db
 
-MODEL = os.getenv("FZH_MODEL", os.getenv("PT_MODEL", "claude-opus-4-8"))
+MODEL = os.getenv("FZH_MODEL", "claude-opus-4-8")
 
 
 class WhereLink(BaseModel):
